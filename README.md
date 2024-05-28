@@ -1,1 +1,2 @@
 # Quiz-App
+An interacive quiz application on African history.This app has 5 questions and shows the correct answer as the game progresses and the total of correct ones gotten by the player at the end of the quiz
